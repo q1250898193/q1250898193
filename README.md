@@ -33,7 +33,8 @@
 
 ### 📌 代表项目
 
-- [echarts-bigdata-demo](https://github.com/q1250898193/echarts-bigdata-demo) — ECharts 大数据量渲染优化 demo：lttb 采样 + dataZoom + progressive 分批渲染，2 万数据点稳定 60fps
+- [vue3-admin-template](https://github.com/q1250898193/vue3-admin-template) — Vue3 + Vite + Pinia + Element Plus 中后台模板：路由守卫、axios 拦截器、本地存储、常用工具封装
+- [echarts-bigdata-demo](https://github.com/q1250898193/echarts-bigdata-demo) — ECharts 大数据量渲染优化：lttb 采样 + dataZoom + progressive，2 万数据点稳定 60fps
 
 ---
 
